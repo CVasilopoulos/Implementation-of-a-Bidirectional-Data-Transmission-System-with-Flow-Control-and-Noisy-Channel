@@ -1,10 +1,3 @@
-/*
- * CRC.c
- *
- *  Created on: Nov 26, 2016
- *      Author: TasosPet
- */
-
 #include "xil_types.h"
 #include "crc.h"
 
